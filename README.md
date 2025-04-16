@@ -63,17 +63,6 @@ The system uses a MySQL database with tables that may include:
 
 ---
 
-## 📚 Key Learnings
-
-Through this project, we gained hands-on experience in:
-
-- Java application development  
-- Connecting Java to MySQL using JDBC  
-- Basic CRUD operations in Java  
-- Structuring database-driven applications  
-- Working in a collaborative team environment
-
---
 
 
 

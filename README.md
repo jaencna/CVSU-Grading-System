@@ -1,5 +1,3 @@
-# CVSU-Grading-System
-
 # CvSU Grading System
 
 A Java-based grading system built using NetBeans and MySQL, designed to help teachers at Cavite State University (CvSU) efficiently manage student grades. This system allows teachers to create, update, and view student records in a streamlined and user-friendly manner.

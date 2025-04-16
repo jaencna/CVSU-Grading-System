@@ -73,18 +73,7 @@ Through this project, we gained hands-on experience in:
 - Structuring database-driven applications  
 - Working in a collaborative team environment
 
----
-
-## 👥 Authors
-
-This project was developed by:
-
-- [Your Name]  
-- [Groupmate 1]  
-- [Groupmate 2]  
-- [etc.]
-
-
+--
 
 
 
